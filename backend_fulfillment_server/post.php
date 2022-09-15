@@ -332,10 +332,6 @@ $jumlahPorsiMangkokMakanan  = (isset($update["queryResult"]["parameters"]["jumla
 $jumlahPorsiMangkokMakanan = mysqli_real_escape_string($link, $jumlahPorsiMangkokMakanan);
 
 
-$jumlahPorsiMangkokMakanan1  = (isset($update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"]) ? $update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"] : null); 
-
-$jumlahPorsiMangkokMakanan1 = mysqli_real_escape_string($link, $jumlahPorsiMangkokMakanan1);
-
 
 
 $jumlahgelasminuman  = (isset($update["queryResult"]["parameters"]["jumlahgelasminuman"]) ? $update["queryResult"]["parameters"]["jumlahgelasminuman"] : null); 
@@ -343,7 +339,6 @@ $jumlahgelasminuman  = (isset($update["queryResult"]["parameters"]["jumlahgelasm
 $jumlahgelasminuman = mysqli_real_escape_string($link, $jumlahgelasminuman);
 
 $hargamakanan =  ambil_value_product($Makanan, "produk" , "harga" , "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
-$hargamakanan1 =  ambil_value_product($Makanan1, "produk" , "harga" , "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 
 
 
@@ -385,8 +380,6 @@ $totalhargamakanan= intval($hargamakanan) * intval($jumlahPorsiMangkokMakanan);
 $totalhargamaminuman=intval($hargamainuman) * intval($jumlahgelasminuman);
 
 
-  
-
 if ($Makanan !="") {
   insert_data_to_cart($sessionunique,$Makanan,$jumlahPorsiMangkokMakanan,$totalhargamakanan,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 }
@@ -400,36 +393,36 @@ if ($Minuman !="") {
 	$Makanan1  = (isset($update["queryResult"]["parameters"]["Makanan1"]) ? $update["queryResult"]["parameters"]["Makanan1"] : null); 
 	$Makanan1 = mysqli_real_escape_string($link, $Makanan1);
 
-	
+
    $jumlahPorsiMangkokMakanan1  = (isset($update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"]) ? $update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"] : null); 
 
 $jumlahPorsiMangkokMakanan1 = mysqli_real_escape_string($link, $jumlahPorsiMangkokMakanan1);
 
+$hargamakanan1 =  ambil_value_product($Makanan1, "produk" , "harga" , "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 
-$txt="";
+
+ 
+
+
+  $txt="";
   $myfile = fopen("item.txt", "w") or die("Unable to open file!");
   $txt .= "Makanan: ".$Makanan. "\n";
   $txt .= "Makanan1: ".$Makanan1. "\n";
   $txt .= "hargamakanan: ".$hargamakanan. "\n";
   $txt .= "hargamakanan1: ".$hargamakanan1. "\n";
-  
+ 
   $txt .= "jumlahPorsiMangkokMakanan: ".$jumlahPorsiMangkokMakanan. "\n";
   $txt .= "jumlahPorsiMangkokMakanan1: ".$jumlahPorsiMangkokMakanan1. "\n";
-  
+ 
   $txt .= "totalhargamakanan: ".$totalhargamakanan. "\n";
    $txt .= "totalhargamakanan1: ".$totalhargamakanan1. "\n";
-
-
   $txt .= "Minuman: ".$Minuman. "\n";
   $txt .= "hargamainuman: ".$totalhargamaminuman. "\n";
   $txt .= "jumlahgelasminuman: ".$jumlahgelasminuman. "\n";
   $txt .= "totalhargamaminuman: ".$totalhargamaminuman. "\n";
-
-
   fwrite($myfile, $txt);
   fclose($myfile);
   
-
 
 
 if ($Makanan1!="") {
