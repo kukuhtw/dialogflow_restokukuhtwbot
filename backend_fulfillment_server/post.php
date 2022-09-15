@@ -331,7 +331,18 @@ $Minuman = mysqli_real_escape_string($link, $Minuman);
 $jumlahPorsiMangkokMakanan  = (isset($update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan"]) ? $update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan"] : null); 
 $jumlahPorsiMangkokMakanan = mysqli_real_escape_string($link, $jumlahPorsiMangkokMakanan);
 
+$jumlahPorsiMangkokMakanan1  = (isset($update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"]) ? $update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"] : null); 
+$jumlahPorsiMangkokMakanan1 = mysqli_real_escape_string($link, $jumlahPorsiMangkokMakanan1);
 
+  $txt="";
+  $myfile = fopen("item0.txt", "w") or die("Unable to open file!");
+  $txt .= "Makanan: ".$Makanan. "\n";
+  $txt .= "Makanan1: ".$Makanan1. "\n";
+   $txt .= "jumlahPorsiMangkokMakanan: ".$jumlahPorsiMangkokMakanan. "\n";
+  $txt .= "jumlahPorsiMangkokMakanan1: ".$jumlahPorsiMangkokMakanan1. "\n";
+   fwrite($myfile, $txt);
+  fclose($myfile);
+  
 
 
 $jumlahgelasminuman  = (isset($update["queryResult"]["parameters"]["jumlahgelasminuman"]) ? $update["queryResult"]["parameters"]["jumlahgelasminuman"] : null); 
@@ -401,10 +412,7 @@ $jumlahPorsiMangkokMakanan1 = mysqli_real_escape_string($link, $jumlahPorsiMangk
 $hargamakanan1 =  ambil_value_product($Makanan1, "produk" , "harga" , "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 
 
- 
-
-
-  $txt="";
+   $txt="";
   $myfile = fopen("item.txt", "w") or die("Unable to open file!");
   $txt .= "Makanan: ".$Makanan. "\n";
   $txt .= "Makanan1: ".$Makanan1. "\n";
