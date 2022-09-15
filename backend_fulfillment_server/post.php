@@ -319,6 +319,11 @@ if ($varresultaction=="orderstep1" )
 $Makanan  = (isset($update["queryResult"]["parameters"]["Makanan"]) ? $update["queryResult"]["parameters"]["Makanan"] : null); 
 $Makanan = mysqli_real_escape_string($link, $Makanan);
 
+
+$Makanan1  = (isset($update["queryResult"]["parameters"]["Makanan"]) ? $update["queryResult"]["parameters"]["Makanan"] : null); 
+$Makanan1 = mysqli_real_escape_string($link, $Makanan1);
+
+
 $Minuman  = (isset($update["queryResult"]["parameters"]["Minuman"]) ? $update["queryResult"]["parameters"]["Minuman"] : null); 
 $Minuman = mysqli_real_escape_string($link, $Minuman);
 
@@ -327,14 +332,20 @@ $jumlahPorsiMangkokMakanan  = (isset($update["queryResult"]["parameters"]["jumla
 $jumlahPorsiMangkokMakanan = mysqli_real_escape_string($link, $jumlahPorsiMangkokMakanan);
 
 
+
+
 $jumlahgelasminuman  = (isset($update["queryResult"]["parameters"]["jumlahgelasminuman"]) ? $update["queryResult"]["parameters"]["jumlahgelasminuman"] : null); 
 
 $jumlahgelasminuman = mysqli_real_escape_string($link, $jumlahgelasminuman);
 
 $hargamakanan =  ambil_value_product($Makanan, "produk" , "harga" , "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
+
+
 $hargamainuman =  ambil_value_product($Minuman, "produk" ,"harga", "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 
 $qtymakanan=check_apakah_produksudahada_di_cart($sessionunique,$Makanan,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
+
+
 $qtyminuman=check_apakah_produksudahada_di_cart($sessionunique,$Minuman,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 
 
@@ -343,6 +354,9 @@ if ($qtymakanan>=1) {
 	batalkan_item($Makanan,$sessionunique,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 	$jumlahPorsiMangkokMakanan=$jumlahPorsiMangkokMakanan+$qtymakanan;
 }
+
+
+
 if ($qtyminuman>=1) {
 	batalkan_item($Minuman,$sessionunique,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 	$jumlahgelasminuman=$jumlahgelasminuman+$qtyminuman;
@@ -358,6 +372,8 @@ if ($jumlahgelasminuman==0 || $jumlahgelasminuman=="") {
 
 
 $totalhargamakanan= intval($hargamakanan) * intval($jumlahPorsiMangkokMakanan);
+
+
 $totalhargamaminuman=intval($hargamainuman) * intval($jumlahgelasminuman);
 
 
@@ -381,6 +397,9 @@ $txt="";
 if ($Makanan !="") {
   insert_data_to_cart($sessionunique,$Makanan,$jumlahPorsiMangkokMakanan,$totalhargamakanan,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 }
+
+
+
 if ($Minuman !="") {
   insert_data_to_cart($sessionunique,$Minuman,$jumlahgelasminuman,$totalhargamaminuman,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 }
