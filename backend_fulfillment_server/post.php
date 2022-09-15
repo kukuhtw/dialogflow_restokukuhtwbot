@@ -398,6 +398,13 @@ if ($Minuman !="") {
 }
 
 	$Makanan1  = (isset($update["queryResult"]["parameters"]["Makanan1"]) ? $update["queryResult"]["parameters"]["Makanan1"] : null); 
+	$Makanan1 = mysqli_real_escape_string($link, $Makanan1);
+
+	
+   $jumlahPorsiMangkokMakanan1  = (isset($update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"]) ? $update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"] : null); 
+
+$jumlahPorsiMangkokMakanan1 = mysqli_real_escape_string($link, $jumlahPorsiMangkokMakanan1);
+
 
 $txt="";
   $myfile = fopen("item.txt", "w") or die("Unable to open file!");
@@ -428,9 +435,6 @@ $txt="";
 if ($Makanan1!="") {
 	$hargamakanan1 =  ambil_value_product($Makanan1, "produk" , "harga" , "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 
-   $jumlahPorsiMangkokMakanan1  = (isset($update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"]) ? $update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"] : null); 
-
-$jumlahPorsiMangkokMakanan1 = mysqli_real_escape_string($link, $jumlahPorsiMangkokMakanan1);
 
 
 	
