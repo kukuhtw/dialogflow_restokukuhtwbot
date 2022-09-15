@@ -156,10 +156,19 @@ if ($varresultaction=="konfirmasi_order" ){
 
 if ($varresultaction=="user_ganti_jumlah_item" ){
 	$Makanan  = (isset($update["queryResult"]["parameters"]["Makanan"]) ? $update["queryResult"]["parameters"]["Makanan"] : null); 
+	$Makanan = mysqli_real_escape_string($link, $Makanan);
+
+
 	$Minuman  = (isset($update["queryResult"]["parameters"]["Minuman"]) ? $update["queryResult"]["parameters"]["Minuman"] : null); 
+		$Makanan = mysqli_real_escape_string($link, $Makanan);
+
 	
 	if($Makanan!="") {
 		$jumlahPorsiMangkokMakanan  = (isset($update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan"]) ? $update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan"] : null); 
+		
+		$jumlahPorsiMangkokMakanan = mysqli_real_escape_string($link, $jumlahPorsiMangkokMakanan);
+
+
 
 		if ($jumlahPorsiMangkokMakanan<=0) {
 			$jumlahPorsiMangkokMakanan=1;
