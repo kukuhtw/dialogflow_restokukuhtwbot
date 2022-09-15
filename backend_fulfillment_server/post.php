@@ -210,7 +210,11 @@ if ($varresultaction=="user_ganti_jumlah_item" ){
 }
 if ($varresultaction=="user_batal_item" ){
 	$Makanan  = (isset($update["queryResult"]["parameters"]["Makanan"]) ? $update["queryResult"]["parameters"]["Makanan"] : null); 
+	$Makanan = mysqli_real_escape_string($link, $Makanan);
+
+
 	$Minuman  = (isset($update["queryResult"]["parameters"]["Minuman"]) ? $update["queryResult"]["parameters"]["Minuman"] : null); 
+	$Minuman = mysqli_real_escape_string($link, $Minuman);
 	
 	if($Makanan!="") {
 		$itembatal=$Makanan;
@@ -259,7 +263,12 @@ if ($varresultaction=="lihat_pesan" )
 
 
 $Makanan  = (isset($update["queryResult"]["parameters"]["Makanan"]) ? $update["queryResult"]["parameters"]["Makanan"] : null); 
+$Makanan = mysqli_real_escape_string($link, $Makanan);
+
+
 $Minuman  = (isset($update["queryResult"]["parameters"]["Minuman"]) ? $update["queryResult"]["parameters"]["Minuman"] : null); 
+$Minuman = mysqli_real_escape_string($link, $Minuman);
+
 
 $tanyamakanan=0;
 $tanyaminuman=0;
@@ -308,10 +317,19 @@ if ($varresultaction=="user_tanya_harga" && $tanyamakanan==0 && $tanyaminuman==0
 if ($varresultaction=="orderstep1" )
 {
 $Makanan  = (isset($update["queryResult"]["parameters"]["Makanan"]) ? $update["queryResult"]["parameters"]["Makanan"] : null); 
+$Makanan = mysqli_real_escape_string($link, $Makanan);
+
 $Minuman  = (isset($update["queryResult"]["parameters"]["Minuman"]) ? $update["queryResult"]["parameters"]["Minuman"] : null); 
+$Minuman = mysqli_real_escape_string($link, $Minuman);
+
+
 $jumlahPorsiMangkokMakanan  = (isset($update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan"]) ? $update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan"] : null); 
+$jumlahPorsiMangkokMakanan = mysqli_real_escape_string($link, $jumlahPorsiMangkokMakanan);
+
+
 $jumlahgelasminuman  = (isset($update["queryResult"]["parameters"]["jumlahgelasminuman"]) ? $update["queryResult"]["parameters"]["jumlahgelasminuman"] : null); 
 
+$jumlahgelasminuman = mysqli_real_escape_string($link, $jumlahgelasminuman);
 
 $hargamakanan =  ambil_value_product($Makanan, "produk" , "harga" , "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 $hargamainuman =  ambil_value_product($Minuman, "produk" ,"harga", "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
@@ -368,6 +386,9 @@ if ($Minuman !="") {
 }
 
 	$Makanan1  = (isset($update["queryResult"]["parameters"]["Makanan1"]) ? $update["queryResult"]["parameters"]["Makanan1"] : null); 
+
+
+
    $jumlahPorsiMangkokMakanan1  = (isset($update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"]) ? $update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"] : null); 
 
 if ($Makanan1!="") {
@@ -383,7 +404,12 @@ if ($Makanan1!="") {
 }  
 
 $Minuman1  = (isset($update["queryResult"]["parameters"]["Minuman1"]) ? $update["queryResult"]["parameters"]["Minuman1"] : null); 
+$Minuman1 = mysqli_real_escape_string($link, $Minuman1);
+
+
 $jumlahgelasminuman1  = (isset($update["queryResult"]["parameters"]["jumlahgelasminuman1"]) ? $update["queryResult"]["parameters"]["jumlahgelasminuman1"] : null); 
+$jumlahgelasminuman1 = mysqli_real_escape_string($link, $jumlahgelasminuman1);
+
 
 if ($Minuman1!="") {
 	$hargamainuman1 =  ambil_value_product($Minuman1, "produk" ,"harga", "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
@@ -542,6 +568,10 @@ if ($varresultaction=="pesanMakanan")
 {
 	$param_makanan=$update["queryResult"]["parameters"]["makanan"];
 	$param_minuman=$update["queryResult"]["parameters"]["minuman"];
+
+	$param_makanan = mysqli_real_escape_string($link, $param_makanan);
+	$param_minuman = mysqli_real_escape_string($link, $param_minuman);
+
 	
       sendMessage(array(
             "source" => $update["queryResult"]["source"],
