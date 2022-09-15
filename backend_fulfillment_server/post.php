@@ -385,21 +385,6 @@ $totalhargamakanan= intval($hargamakanan) * intval($jumlahPorsiMangkokMakanan);
 $totalhargamaminuman=intval($hargamainuman) * intval($jumlahgelasminuman);
 
 
-$txt="";
-  $myfile = fopen("item.txt", "w") or die("Unable to open file!");
-  $txt .= "Makanan: ".$Makanan. "\n";
-  $txt .= "hargamakanan: ".$hargamakanan. "\n";
-  $txt .= "jumlahPorsiMangkokMakanan: ".$jumlahPorsiMangkokMakanan. "\n";
-  $txt .= "totalhargamakanan: ".$totalhargamakanan. "\n";
-
-  $txt .= "Minuman: ".$Minuman. "\n";
-  $txt .= "hargamainuman: ".$totalhargamaminuman. "\n";
-  $txt .= "jumlahgelasminuman: ".$jumlahgelasminuman. "\n";
-  $txt .= "totalhargamaminuman: ".$totalhargamaminuman. "\n";
-
-
-  fwrite($myfile, $txt);
-  fclose($myfile);
   
 
 if ($Makanan !="") {
@@ -414,7 +399,29 @@ if ($Minuman !="") {
 
 	$Makanan1  = (isset($update["queryResult"]["parameters"]["Makanan1"]) ? $update["queryResult"]["parameters"]["Makanan1"] : null); 
 
+$txt="";
+  $myfile = fopen("item.txt", "w") or die("Unable to open file!");
+  $txt .= "Makanan: ".$Makanan. "\n";
+  $txt .= "Makanan1: ".$Makanan1. "\n";
+  $txt .= "hargamakanan: ".$hargamakanan. "\n";
+  $txt .= "hargamakanan1: ".$hargamakanan1. "\n";
+  
+  $txt .= "jumlahPorsiMangkokMakanan: ".$jumlahPorsiMangkokMakanan. "\n";
+  $txt .= "jumlahPorsiMangkokMakanan1: ".$jumlahPorsiMangkokMakanan1. "\n";
+  
+  $txt .= "totalhargamakanan: ".$totalhargamakanan. "\n";
+   $txt .= "totalhargamakanan1: ".$totalhargamakanan1. "\n";
 
+
+  $txt .= "Minuman: ".$Minuman. "\n";
+  $txt .= "hargamainuman: ".$totalhargamaminuman. "\n";
+  $txt .= "jumlahgelasminuman: ".$jumlahgelasminuman. "\n";
+  $txt .= "totalhargamaminuman: ".$totalhargamaminuman. "\n";
+
+
+  fwrite($myfile, $txt);
+  fclose($myfile);
+  
 
 
 
