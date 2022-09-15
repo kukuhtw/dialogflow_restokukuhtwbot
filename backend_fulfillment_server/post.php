@@ -3,28 +3,6 @@
 //ini_set('display_startup_errors', 1);
 //error_reporting(E_ALL);
 
-/*
-
-    $$\   $$\          $$\                 $$\             $$$$$$$$\ $$\      $$\ 
-$$ | $$  |         $$ |                $$ |            \__$$  __|$$ | $\  $$ |
-$$ |$$  /$$\   $$\ $$ |  $$\ $$\   $$\ $$$$$$$\           $$ |   $$ |$$$\ $$ |
-$$$$$  / $$ |  $$ |$$ | $$  |$$ |  $$ |$$  __$$\          $$ |   $$ $$ $$\$$ |
-$$  $$<  $$ |  $$ |$$$$$$  / $$ |  $$ |$$ |  $$ |         $$ |   $$$$  _$$$$ |
-$$ |\$$\ $$ |  $$ |$$  _$$<  $$ |  $$ |$$ |  $$ |         $$ |   $$$  / \$$$ |
-$$ | \$$\\$$$$$$  |$$ | \$$\ \$$$$$$  |$$ |  $$ |         $$ |   $$  /   \$$ |
-\__|  \__|\______/ \__|  \__| \______/ \__|  \__|         \__|   \__/     \__|
-
-
-kukuhtw@gmail.com
-whatsapp : 62.8129893706
-https://www.linkedin.com/in/kukuhtw/
-https://www.instagram.com/kukuhtw/
-https://twitter.com/kukuhtw/
-https://www.facebook.com/kukuhtw
-https://www.facebook.com/profile.php?id=100083608342093
-
-*/
-
 
 $NAMATABLEUSER="restosessionuser";
 
@@ -39,6 +17,7 @@ $update_response = file_get_contents("php://input");
 $update = json_decode($update_response, true);
 
 $varresultaction = $update["queryResult"]["action"];
+$varresultaction = mysqli_real_escape_string($link, $varresultaction);
 
 $session = $update["session"];
 
@@ -49,9 +28,19 @@ $sessionunique="";
 $list  = list($ignore1,$sessionunique) = explode('sessions/', $session);
 
 $namauser  = (isset($update["queryResult"]["parameters"]["namauser"]) ? $update["queryResult"]["parameters"]["namauser"] : null); 
+$namauser = mysqli_real_escape_string($link, $namauser);
+
+
 $emailuser = (isset($update["queryResult"]["parameters"]["emailuser"]) ? $update["queryResult"]["parameters"]["emailuser"] : null);
+$emailuser = mysqli_real_escape_string($link, $emailuser);
+
+
 $hapeuser =  (isset($update["queryResult"]["parameters"]["hapeuser"]) ? $update["queryResult"]["parameters"]["hapeuser"]  : null);
+$hapeuser = mysqli_real_escape_string($link, $hapeuser);
+
+
 $alamatpenerima = (isset($update["queryResult"]["parameters"]["alamatpenerima"]) ? $update["queryResult"]["parameters"]["alamatpenerima"] : null);
+$alamatpenerima = mysqli_real_escape_string($link, $alamatpenerima);
 
 
 /*
