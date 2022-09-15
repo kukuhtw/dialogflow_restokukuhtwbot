@@ -22,6 +22,10 @@ https://www.facebook.com/kukuhtw
 https://www.facebook.com/profile.php?id=100083608342093
 
 
+Themes Whatsapp is downloaded from this site
+https://codepen.io/zenorocha/pen/eZxYOK
+
+
 you need google-cloud-php-dialogflow to run demo in website
 get it here
 https://github.com/googleapis/google-cloud-php-dialogflow
@@ -75,7 +79,7 @@ date_default_timezone_set("Asia/Jakarta");
 $tanggalhariini = date("Y/m/d");
 $jamhariini = date("H:i:sa");
 $saatini = $tanggalhariini. " ".$jamhariini;
-$projectId="kukuhtw-e9efd";
+$projectId="kukuhtw-e9efd"; //<---------- CHANGE WITH YOUR PROJECT ID HERE
 
 //query_user
 $query_user = (isset($_POST["query_user"]) ? $_POST["query_user"] : null); 

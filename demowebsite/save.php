@@ -61,7 +61,7 @@ if ($usermessages!="") {
 	{
 		$last_id=0;
 	}
-	$projectId="restokukuhtw";
+	$projectId="restokukuhtw"; // <----- CHANGE WITH YOUR OWN PROJECT ID DIALOGFLOW
 	$sessionId=$cookies_visitor;
 	$text=$usermessages; 
 	$namafile="simpan2.txt";
@@ -96,7 +96,7 @@ if ($usermessages!="") {
 function detect_intent_texts($projectId, $text, $sessionId, $languageCode = 'en-US')
 {
     // new session
-    $test = array('credentials' => 'restokukuhtw-5b307e2bfefd.json');
+    $test = array('credentials' => 'yourfilenamejsonhere.json'); // <----- CHANGE WITH YOUR OWN SERVICE ACCOUNT KEY 
     $sessionsClient = new SessionsClient($test);
     $session = $sessionsClient->sessionName($projectId, $sessionId ?: uniqid());
     //printf('Session path: %s' . PHP_EOL, $session);
