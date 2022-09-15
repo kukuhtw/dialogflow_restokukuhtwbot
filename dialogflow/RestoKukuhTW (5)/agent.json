@@ -41,7 +41,7 @@
   },
   "defaultTimezone": "Asia/Bangkok",
   "webhook": {
-    "url": "https://examenginebot.com/opensource_demorestokukuhtwbot/backend_fulfillment_server/post.php",
+    "url": "https://yourowndomain.com/yourfolder/backend_fulfillment_server/post.php",
     "username": "",
     "headers": {},
     "available": true,
