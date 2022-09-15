@@ -416,14 +416,17 @@ if ($Minuman !="") {
 
 
 
+
+
+if ($Makanan1!="") {
+	$hargamakanan1 =  ambil_value_product($Makanan1, "produk" , "harga" , "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
+
    $jumlahPorsiMangkokMakanan1  = (isset($update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"]) ? $update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"] : null); 
 
 $jumlahPorsiMangkokMakanan1 = mysqli_real_escape_string($link, $jumlahPorsiMangkokMakanan1);
 
 
-
-if ($Makanan1!="") {
-	$hargamakanan1 =  ambil_value_product($Makanan1, "produk" , "harga" , "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
+	
 	$totalhargamakanan1=$hargamakanan1 * $jumlahPorsiMangkokMakanan1;
 	$qtymakanan1=check_apakah_produksudahada_di_cart($sessionunique,$Makanan1,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 	if ($qtymakanan1>=1) {
