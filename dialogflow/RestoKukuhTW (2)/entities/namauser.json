@@ -1,0 +1,9 @@
+{
+  "id": "d19aaaa6-eb30-4e42-a7a5-48182cc41b1a",
+  "name": "namauser",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

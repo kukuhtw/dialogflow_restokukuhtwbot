@@ -1,0 +1,9 @@
+{
+  "id": "5e93b7cf-648d-4352-9054-b232998a56b6",
+  "name": "jumlahgelasminuman",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

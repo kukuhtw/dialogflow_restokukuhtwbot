@@ -1,0 +1,9 @@
+{
+  "id": "4e976a08-94e1-447b-b734-d8ec98c31b36",
+  "name": "hapeuser",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

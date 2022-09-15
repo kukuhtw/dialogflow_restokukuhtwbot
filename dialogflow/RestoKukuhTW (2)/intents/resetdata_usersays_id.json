@@ -1,0 +1,28 @@
+[
+  {
+    "id": "60c4107e-f120-4bf8-9f0a-fab22d78a6aa",
+    "data": [
+      {
+        "text": "clear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ed62e655-76ef-461e-8455-a9e5ca3df594",
+    "data": [
+      {
+        "text": "reset data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

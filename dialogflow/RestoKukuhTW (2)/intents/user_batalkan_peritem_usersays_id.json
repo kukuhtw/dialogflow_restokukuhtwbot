@@ -1,0 +1,145 @@
+[
+  {
+    "id": "d33666dc-047a-4589-811b-66b109bb5b85",
+    "data": [
+      {
+        "text": "bakso campur",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " nggak jadi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0544e67a-7309-4485-85bc-b40ee3df19f9",
+    "data": [
+      {
+        "text": "air es",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " nggak jadi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "af950f3e-cbbc-4bca-9f09-8b96760e0a46",
+    "data": [
+      {
+        "text": "batalkan ",
+        "userDefined": false
+      },
+      {
+        "text": "air es",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "bakso campur",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e1d98924-dc04-4cef-b33c-211176dc0997",
+    "data": [
+      {
+        "text": "cancel ",
+        "userDefined": false
+      },
+      {
+        "text": "pangsit",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e8684007-5055-4a7a-be69-503ee6a58171",
+    "data": [
+      {
+        "text": "cancel  ek ",
+        "userDefined": false
+      },
+      {
+        "text": "kelapa",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "46d3c59f-eae8-49d4-9c9d-b6796842e46d",
+    "data": [
+      {
+        "text": "batalkan ",
+        "userDefined": false
+      },
+      {
+        "text": "es kelapa",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "50352e54-7fa0-41c3-8461-3edc49c1bbf9",
+    "data": [
+      {
+        "text": "batalkan ",
+        "userDefined": false
+      },
+      {
+        "text": "pangsit",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "c1b3da40-e79f-45b9-9549-5882041d6cf1",
+  "name": "user_provide_info_alamat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "user_provide_info_alamat",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1c52de27-b147-46ee-9bb0-084f12f4a088",
+          "name": "alamatpenerima",
+          "required": false,
+          "dataType": "@alamatpenerima",
+          "value": "$alamatpenerima",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "gagal koneksi ke server mencari alamat"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "13055903-1e10-4419-b9a7-7795c788e816",
+  "name": "Minuman",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

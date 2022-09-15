@@ -1,0 +1,55 @@
+{
+  "id": "81e23c46-d335-4f04-b7bf-b297add880ab",
+  "name": "user_provide_info_nama",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "user_provide_info_nama",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8e2282eb-3aef-4db9-a46b-dcb4bb2b744e",
+          "name": "namauser",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$namauser",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "nama siapa ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "sedang terkoneksi ke server....."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "83f29aba-03b5-47ec-9fb5-9b908ac249ad",
+    "data": [
+      {
+        "text": "tadi saya pesan apa ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "10783cda-715c-4038-a766-8840bf515a0f",
+    "data": [
+      {
+        "text": "pesanan saya apa aja ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2c696a8a-e6b2-4cea-acb6-863aa22fcc62",
+    "data": [
+      {
+        "text": "saya tadi pesan apa ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "07b122db-e6f2-410d-bbb6-0607e9c59e1a",
+    "data": [
+      {
+        "text": "lihat pesan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f39be879-0d0c-438f-b846-ea9720ab7201",
+    "data": [
+      {
+        "text": "lihat pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d2db8fee-78bc-4ad5-9a41-85364a0c19a9",
+    "data": [
+      {
+        "text": "lihat pesanan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7880398a-36e5-4dc5-8b5f-6bf5601f43f3",
+    "data": [
+      {
+        "text": "lihat order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d976a364-d0b4-4adf-a635-6bdce046c950",
+    "data": [
+      {
+        "text": "minta bill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0efd9b74-1a02-4b15-a420-4e094fb3d001",
+    "data": [
+      {
+        "text": "lihat bill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

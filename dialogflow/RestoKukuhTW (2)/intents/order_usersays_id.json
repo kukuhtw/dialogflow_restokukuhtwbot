@@ -1,0 +1,908 @@
+[
+  {
+    "id": "72c64153-0843-45d5-a10a-0f5d45f6fd22",
+    "data": [
+      {
+        "text": "es jeruk",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b25a03c8-71e4-4d59-8f34-6c4d2b61f47f",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bihun",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "61de9f4e-7c5d-43fb-a88f-a646c6fd6397",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "es jeruk",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "86423ebf-26fe-4b2d-aa5d-625b37ebdfa7",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "mie ayam",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "df6368d5-a2a5-4a50-b523-8091e629aa13",
+    "data": [
+      {
+        "text": "pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "mie ayam",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a5ae9144-04a3-4eee-8bd1-eca3d8798dcb",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@jumlahPorsiMangkokMakanan",
+        "alias": "jumlahPorsiMangkokMakanan",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mie rebus",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": true
+      },
+      {
+        "text": " es ",
+        "userDefined": false
+      },
+      {
+        "text": "teh",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "es jeruk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9586fdea-ba75-40da-b2e7-62e338e07559",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@jumlahPorsiMangkokMakanan",
+        "alias": "jumlahPorsiMangkokMakanan",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mie rebus",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": true
+      },
+      {
+        "text": " es ",
+        "userDefined": false
+      },
+      {
+        "text": "teh",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c03a0431-e809-492e-a8d6-0cdd0dd30f39",
+    "data": [
+      {
+        "text": "es jeruk",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "755b92a9-9c2f-4f1c-b067-b7785c5c296a",
+    "data": [
+      {
+        "text": "bakso bihun",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6b8a2cd5-851c-4f12-954d-cdedba9faae6",
+    "data": [
+      {
+        "text": "es jeruk",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " tambah ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": true
+      },
+      {
+        "text": " lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f50a1fb3-02f3-443b-a171-232366c7121f",
+    "data": [
+      {
+        "text": "es jeruk",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "teh tawar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "85f7b6af-e3cc-4190-8311-a75577657a0d",
+    "data": [
+      {
+        "text": "bakso bihun",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@jumlahPorsiMangkokMakanan",
+        "alias": "jumlahPorsiMangkokMakanan",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mie rebus",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e2a38fff-a925-4049-948b-1f8ad9006f2f",
+    "data": [
+      {
+        "text": "pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "bakso bihun",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@jumlahPorsiMangkokMakanan",
+        "alias": "jumlahPorsiMangkokMakanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "02f3ca2f-443b-4e1c-936c-78b7565194e1",
+    "data": [
+      {
+        "text": "bakso bihun",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@jumlahPorsiMangkokMakanan",
+        "alias": "jumlahPorsiMangkokMakanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d3b1cf3a-cc59-4558-8e95-9f97b3e56592",
+    "data": [
+      {
+        "text": "es jeruk",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1ac7be88-af8a-47fc-a01d-30157a49b422",
+    "data": [
+      {
+        "text": "pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "mie rebus",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "es kelapa",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cb987c01-d99f-4964-9b90-f0c4854039aa",
+    "data": [
+      {
+        "text": "ada ",
+        "userDefined": false
+      },
+      {
+        "text": "Bakso Mie",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d26a9f28-b353-41dd-8fd5-74e3fe505e97",
+    "data": [
+      {
+        "text": "Es Jeruk",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "508f2a3f-9062-44bc-bd36-5e66b2b1f384",
+    "data": [
+      {
+        "text": "pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@jumlahPorsiMangkokMakanan",
+        "alias": "jumlahPorsiMangkokMakanan",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bakso Mie",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c1757ca6-771c-40d7-aab2-4247797c8c74",
+    "data": [
+      {
+        "text": "minta ",
+        "userDefined": false
+      },
+      {
+        "text": "Es Jeruk",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "Bakso Mie",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "58aa01de-cfac-46d0-b962-59bf6e672eec",
+    "data": [
+      {
+        "text": "pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "es jeruk",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "814bf6f7-cc25-4f4d-98f7-94b4e65cadfd",
+    "data": [
+      {
+        "text": "pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "Es Jerukn",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b4facb33-84b8-49e3-be94-807fbad03a25",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@jumlahPorsiMangkokMakanan",
+        "alias": "jumlahPorsiMangkokMakanan",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bakso mie",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "es jeruk",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4df1cc63-2c68-42f8-9921-fe111f878df5",
+    "data": [
+      {
+        "text": "pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@jumlahPorsiMangkokMakanan",
+        "alias": "jumlahPorsiMangkokMakanan",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bakso mie",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "es jeruk",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3b536f4e-b60a-48ae-a43c-0f0a77af92a3",
+    "data": [
+      {
+        "text": "pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "es jeruk",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@jumlahPorsiMangkokMakanan",
+        "alias": "jumlahPorsiMangkokMakanan",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bakso mie",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "18d15796-77c6-4b94-87d8-40708df438ed",
+    "data": [
+      {
+        "text": "minta ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "es jeruk",
+        "userDefined": true
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@jumlahPorsiMangkokMakanan",
+        "alias": "jumlahPorsiMangkokMakanan",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bakso mie",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "00f2182d-cd6c-4f93-8375-3003f35aa70c",
+    "data": [
+      {
+        "text": "pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "Bakso Mie",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "Es Jeruk",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2d8b588a-a8f6-441d-bdca-1d3e80048a0f",
+    "data": [
+      {
+        "text": "pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "es kelapa",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "mie rebus",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1c51a563-6c26-46b0-ae02-0ee93b3caa92",
+    "data": [
+      {
+        "text": "Bakso Mie",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "21ccfa4b-11b5-4a93-946f-e64aae82cea6",
+    "data": [
+      {
+        "text": "Minta ",
+        "userDefined": false
+      },
+      {
+        "text": "Bakso Mie",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "ae3d3cfe-9dc0-42df-b009-38d8a3b5fbea",
+  "name": "Makanan",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

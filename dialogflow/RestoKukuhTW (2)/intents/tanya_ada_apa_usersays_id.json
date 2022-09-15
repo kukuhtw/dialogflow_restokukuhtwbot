@@ -1,0 +1,123 @@
+[
+  {
+    "id": "848bb002-32f6-4d7c-bda0-6a020ba13c8d",
+    "data": [
+      {
+        "text": "menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3c858e29-395c-427f-a5a2-43b6effb2096",
+    "data": [
+      {
+        "text": "ada apa aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6acbec72-1375-4d8e-820c-12e6575ee40a",
+    "data": [
+      {
+        "text": "ada  menu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4a0a6ec6-35a9-49ee-9147-ab6933489a94",
+    "data": [
+      {
+        "text": "pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8be7e63e-9120-49e6-b056-6270f0bec1e7",
+    "data": [
+      {
+        "text": "beli makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "928b068e-9860-4302-879c-a8e07e7ff8f0",
+    "data": [
+      {
+        "text": "lihat menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "22a575a7-76ef-444f-8c88-b9a85258f7f4",
+    "data": [
+      {
+        "text": "ada makanan apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5510b6c8-45b2-40e3-9cc8-03d532aeeeda",
+    "data": [
+      {
+        "text": "ada menu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "946a60ad-ab38-4f74-882f-5eabe96c2a14",
+    "data": [
+      {
+        "text": "makanan ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

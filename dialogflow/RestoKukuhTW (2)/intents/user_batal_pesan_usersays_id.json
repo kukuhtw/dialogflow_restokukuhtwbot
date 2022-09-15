@@ -1,0 +1,67 @@
+[
+  {
+    "id": "5fa48b8d-fd7f-4a41-868b-cf2570da2b48",
+    "data": [
+      {
+        "text": "batalkan semua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "374c555c-6ebe-49ab-a972-e2680d73e5f4",
+    "data": [
+      {
+        "text": "batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "99b4b0cc-2245-4c8d-97f3-62facc24d652",
+    "data": [
+      {
+        "text": "nggak jadi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "71f0fc9d-c1ff-4d47-b808-f22a6f61ed9b",
+    "data": [
+      {
+        "text": "cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "20419997-e13b-495c-9f20-ca0246661b85",
+    "data": [
+      {
+        "text": "batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

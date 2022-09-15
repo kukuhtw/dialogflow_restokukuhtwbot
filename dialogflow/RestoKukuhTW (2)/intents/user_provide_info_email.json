@@ -1,0 +1,50 @@
+{
+  "id": "219f17fb-6fc4-4ff1-9cc8-1d3ae05fec2d",
+  "name": "user_provide_info_email",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "user_provide_info_email",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aa725461-5603-4154-8199-40444be6144b",
+          "name": "emailuser",
+          "required": false,
+          "dataType": "@emailuser",
+          "value": "$emailuser",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "terkoneksi ke server"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

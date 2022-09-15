@@ -1,0 +1,139 @@
+[
+  {
+    "id": "3d0eee48-ec9f-4ea9-9b17-214b0a6c7f36",
+    "data": [
+      {
+        "text": "alamat  ",
+        "userDefined": false
+      },
+      {
+        "text": "jl thamrin sudorman 3 ged blabaall lantai 9",
+        "meta": "@alamatpenerima",
+        "alias": "alamatpenerima",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9241fa1c-679d-480a-b284-18bfe0f06587",
+    "data": [
+      {
+        "text": "kirim ke ",
+        "userDefined": false
+      },
+      {
+        "text": "jl thamrin sudorman 3 ged blabaall lantai 9",
+        "meta": "@alamatpenerima",
+        "alias": "alamatpenerima",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c2644d09-8514-47d8-be41-4e0c50b61527",
+    "data": [
+      {
+        "text": "kirim ke ",
+        "userDefined": false
+      },
+      {
+        "text": "jalan swasembada 3 no 12 pondok indah",
+        "meta": "@alamatpenerima",
+        "alias": "alamatpenerima",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fee05204-e46c-46da-b396-337d36fb9fcc",
+    "data": [
+      {
+        "text": "kirim ke ",
+        "userDefined": false
+      },
+      {
+        "text": "jalan nangka 3 nomor 2",
+        "meta": "@alamatpenerima",
+        "alias": "alamatpenerima",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1fac0803-316f-4c41-99d9-6d3b95962026",
+    "data": [
+      {
+        "text": "alamat ",
+        "userDefined": false
+      },
+      {
+        "text": "jalan belalang",
+        "meta": "@alamatpenerima",
+        "alias": "alamatpenerima",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9faae87c-334a-489d-86a4-1fb92434e951",
+    "data": [
+      {
+        "text": "alamat",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "jalan blalalalaa nomor 1231",
+        "meta": "@alamatpenerima",
+        "alias": "alamatpenerima",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0cc23021-c5e9-4a54-8493-a0537cb7afd0",
+    "data": [
+      {
+        "text": "alamat ",
+        "userDefined": false
+      },
+      {
+        "text": "alamatpenerima",
+        "meta": "@alamatpenerima",
+        "alias": "alamatpenerima",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

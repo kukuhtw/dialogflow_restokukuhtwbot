@@ -1,0 +1,58 @@
+[
+  {
+    "id": "faf7d1a9-fbb4-4601-9653-ac0f591b9329",
+    "data": [
+      {
+        "text": "saya pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e191993e-4972-4ec2-a444-abb6f7c45de4",
+    "data": [
+      {
+        "text": "mau pesan makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "65cb68e8-b122-4705-a377-f389ca5abef3",
+    "data": [
+      {
+        "text": "saya mau pesan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "23ea00ec-3c3d-4878-a6ff-0ea7fd8fc2b6",
+    "data": [
+      {
+        "text": "saya lapar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

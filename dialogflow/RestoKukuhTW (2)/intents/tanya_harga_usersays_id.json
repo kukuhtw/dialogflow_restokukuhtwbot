@@ -1,0 +1,212 @@
+[
+  {
+    "id": "de4161a9-b835-4426-a2a1-9afdccad724c",
+    "data": [
+      {
+        "text": "tanya harga ",
+        "userDefined": false
+      },
+      {
+        "text": "pangsit",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5a99b20e-bf3a-4e96-b6d4-71afd141dc1e",
+    "data": [
+      {
+        "text": "harga ",
+        "userDefined": false
+      },
+      {
+        "text": "pangsit",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2899f332-4478-429c-801d-3384e6f81fd7",
+    "data": [
+      {
+        "text": "berapa harganya ",
+        "userDefined": false
+      },
+      {
+        "text": "pangsit",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1a21bb76-0225-4b12-9d8e-6f3694932b0a",
+    "data": [
+      {
+        "text": "mie rebus",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " berapa ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3d8d8cf7-80d4-4be1-992f-440899d5326c",
+    "data": [
+      {
+        "text": "berapaan ",
+        "userDefined": false
+      },
+      {
+        "text": "es kelapa",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b984c034-94d3-42c1-a66b-c98550e40675",
+    "data": [
+      {
+        "text": "piro rego ",
+        "userDefined": false
+      },
+      {
+        "text": "es kelapa",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7738a4ce-7d77-451d-bfeb-936f60813ca0",
+    "data": [
+      {
+        "text": "pangsit",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " harganya berapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b6e71e54-a647-47d8-8ba3-db9f6ea39386",
+    "data": [
+      {
+        "text": "minta info harga ",
+        "userDefined": false
+      },
+      {
+        "text": "air es",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "37b35948-772b-484b-b464-2f58310dec3a",
+    "data": [
+      {
+        "text": "berapa harga ",
+        "userDefined": false
+      },
+      {
+        "text": "pangsit",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bd1de938-f053-4a39-a197-d0991f6d2135",
+    "data": [
+      {
+        "text": "harga ",
+        "userDefined": false
+      },
+      {
+        "text": "pangsit",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " berapa ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

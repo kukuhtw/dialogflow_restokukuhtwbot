@@ -1,0 +1,116 @@
+[
+  {
+    "id": "46999a5b-cb28-43f4-a186-174220aace41",
+    "data": [
+      {
+        "text": "nomor hp ",
+        "userDefined": false
+      },
+      {
+        "text": "0812313123",
+        "meta": "@hapeuser",
+        "alias": "hapeuser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f3005eb1-438e-42ea-b1c8-a46e24281dcc",
+    "data": [
+      {
+        "text": "hp ",
+        "userDefined": false
+      },
+      {
+        "text": "+62818230131",
+        "meta": "@hapeuser",
+        "alias": "hapeuser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f4558aa6-11e9-4f68-9a4e-0a07eff4dd4f",
+    "data": [
+      {
+        "text": "hape ",
+        "userDefined": false
+      },
+      {
+        "text": "081230231",
+        "meta": "@hapeuser",
+        "alias": "hapeuser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c2b7b419-e805-46aa-9908-bf07feb7c3a8",
+    "data": [
+      {
+        "text": "hp ",
+        "userDefined": false
+      },
+      {
+        "text": "0813210381231",
+        "meta": "@hapeuser",
+        "alias": "hapeuser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "da773896-8349-4867-bf7c-2e903fb9afa2",
+    "data": [
+      {
+        "text": "mobile phone ",
+        "userDefined": false
+      },
+      {
+        "text": "01831231",
+        "meta": "@hapeuser",
+        "alias": "hapeuser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "dd5e74f8-247b-4616-bf02-f85753811aaf",
+    "data": [
+      {
+        "text": "nomor hape ",
+        "userDefined": false
+      },
+      {
+        "text": "0812313177",
+        "meta": "@hapeuser",
+        "alias": "hapeuser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

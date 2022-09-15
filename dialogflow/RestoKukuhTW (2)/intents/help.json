@@ -1,0 +1,35 @@
+{
+  "id": "92b89d73-a6c4-41b3-bd83-a14ac03804fd",
+  "name": "help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "untuk melakukan pesanan makanan dan minuman, ketik *ada apa*, , lalu ketik pesan `nama makanan atau minuman`.\n\nUntuk melihat data profile anda, ketik *lihat data*\n\nUntuk  melihat pesanan anda ketik *lihat pesan*\n\nBila ingin membatalkan semua pesanan ketik *batal*\nBila ingin membatalkan pesanan tertentu ketik `batalkan [nama pesanan]\nBila ingin memgganti jumlah pesaanan tertentu ketik `ganti [nama pesanan] menadi [jumlah pesanan]\n\n\nuntuk mengisi data nama anda. ketik NAMA [nama anda]\n\nuntuk mengisi data email anda. ketik EMAIL [email anda]\n\nuntuk mengisi data nomor hape anda. ketik HP [nomor hape anda]\n\nuntuk mengisi data alamat anda. ketik ALAMAT [alamat anda]\n\nbila sudah selesai memesan,ketik `check out` atau `lanjut` untuk memproses pesanan.\n\nketik *MENU* untuk lihat menu tersedia"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

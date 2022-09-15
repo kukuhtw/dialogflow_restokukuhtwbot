@@ -1,0 +1,64 @@
+{
+  "id": "96ee04c1-f9a5-49ba-b01f-e87bf7f3092d",
+  "name": "user_batalkan_peritem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "user_batal_item",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "30180dd1-5f45-440c-9998-197e76839151",
+          "name": "Makanan",
+          "required": false,
+          "dataType": "@Makanan",
+          "value": "$Makanan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1e4e2b57-d474-4843-9dfc-c3e57bd5fc6e",
+          "name": "Minuman",
+          "required": false,
+          "dataType": "@Minuman",
+          "value": "$Minuman",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "gagal terkoneksi ke server"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

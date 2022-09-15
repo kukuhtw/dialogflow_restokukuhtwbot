@@ -1,0 +1,35 @@
+{
+  "id": "db9c159e-0550-43ed-9e5c-395d64fbd671",
+  "name": "tanya_ada_apa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Makanan tersedia bakso campur, mie goreng, mie rebus, bakso mie, bakso bihun, mie ayam yamin, mie jamur, nasi goreng.\n\n\nMinuman ada es jeruk, es teh manis, teh tawar, air es, es kelapa muda,Kopi susu ABC.\n\nCemilan: Kerupuk kulit, Tahu isi."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

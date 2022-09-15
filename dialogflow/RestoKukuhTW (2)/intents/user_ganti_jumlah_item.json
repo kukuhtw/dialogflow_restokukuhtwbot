@@ -1,0 +1,92 @@
+{
+  "id": "09769c3f-cfa9-4db4-927b-91e2f568f6cc",
+  "name": "user_ganti_jumlah_item",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "user_ganti_jumlah_item",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6dac2a31-c0cb-4547-a042-b98b7a174b2b",
+          "name": "Minuman",
+          "required": false,
+          "dataType": "@Minuman",
+          "value": "$Minuman",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "653ab80b-824f-4f76-8669-a03b2c8a1974",
+          "name": "jumlahgelasminuman",
+          "required": false,
+          "dataType": "@jumlahgelasminuman",
+          "value": "$jumlahgelasminuman",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c15f514b-54af-41f8-92d3-68bb05b54d1f",
+          "name": "Makanan",
+          "required": false,
+          "dataType": "@Makanan",
+          "value": "$Makanan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d6711e95-e651-4c27-a440-3fdaeb3ac020",
+          "name": "jumlahPorsiMangkokMakanan",
+          "required": false,
+          "dataType": "@jumlahPorsiMangkokMakanan",
+          "value": "$jumlahPorsiMangkokMakanan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "gagal terkoneksi ke server"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

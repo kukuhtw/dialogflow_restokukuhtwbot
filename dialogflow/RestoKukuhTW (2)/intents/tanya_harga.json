@@ -1,0 +1,65 @@
+{
+  "id": "67f318e2-1c20-4008-8280-062b21836634",
+  "name": "tanya_harga",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "user_tanya_harga",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "01a32a11-cd96-4afe-a7b0-eaf01bc1efe3",
+          "name": "Makanan",
+          "required": false,
+          "dataType": "@Makanan",
+          "value": "$Makanan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b6fa7e4f-7465-4b1c-a163-9167e1519a85",
+          "name": "Minuman",
+          "required": false,
+          "dataType": "@Minuman",
+          "value": "$Minuman",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "gagal koneksi ke server , harga $Makanan tidak tersedia",
+            "data harga $Minuman tidak tersedia"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

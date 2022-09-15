@@ -1,0 +1,211 @@
+[
+  {
+    "id": "e372a90d-c523-4e3d-9885-0609455bbdb1",
+    "data": [
+      {
+        "text": "nama penerima ",
+        "userDefined": false
+      },
+      {
+        "text": "sinta dewi",
+        "meta": "@sys.any",
+        "alias": "namauser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d2323118-2439-457a-9b30-03395953a811",
+    "data": [
+      {
+        "text": "nama penerima ",
+        "userDefined": false
+      },
+      {
+        "text": "sita",
+        "meta": "@sys.any",
+        "alias": "namauser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "69b12ecb-53b2-421d-806e-d804f850b9fe",
+    "data": [
+      {
+        "text": "nama saya ",
+        "userDefined": false
+      },
+      {
+        "text": "rina dewi",
+        "meta": "@sys.any",
+        "alias": "namauser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "33961f78-8255-4a4a-9a75-85b22b13701a",
+    "data": [
+      {
+        "text": "nama saya ",
+        "userDefined": false
+      },
+      {
+        "text": "rina",
+        "meta": "@sys.any",
+        "alias": "namauser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4b4c3cb8-5512-406a-bbf0-8e87eb3322b5",
+    "data": [
+      {
+        "text": "nama ",
+        "userDefined": false
+      },
+      {
+        "text": "pertama kedua ketiga",
+        "meta": "@sys.any",
+        "alias": "namauser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "be641fac-9da0-4214-b682-220269a54c0a",
+    "data": [
+      {
+        "text": "nama ",
+        "userDefined": false
+      },
+      {
+        "text": "ayah bunda",
+        "meta": "@sys.any",
+        "alias": "namauser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9accc1fb-ae60-4b8d-9450-b7ecd1e0118d",
+    "data": [
+      {
+        "text": "nama ",
+        "userDefined": false
+      },
+      {
+        "text": "Satu Dua Tiga",
+        "meta": "@sys.any",
+        "alias": "namauser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9cba19df-6b39-4b48-9456-49c202294294",
+    "data": [
+      {
+        "text": "nama ",
+        "userDefined": false
+      },
+      {
+        "text": "Satu Dua Tiga Empat",
+        "meta": "@sys.any",
+        "alias": "namauser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8d66da24-ea10-4395-a390-4d60801a394e",
+    "data": [
+      {
+        "text": "nama ",
+        "userDefined": false
+      },
+      {
+        "text": "Karen",
+        "meta": "@sys.any",
+        "alias": "namauser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9a7bf92f-4754-4f22-97bf-6485018ca7a0",
+    "data": [
+      {
+        "text": "Nama ",
+        "userDefined": false
+      },
+      {
+        "text": "Donald Trump",
+        "meta": "@sys.any",
+        "alias": "namauser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cf0c9da9-5ab0-4840-906b-d3e1397b0fcf",
+    "data": [
+      {
+        "text": "nama ",
+        "userDefined": false
+      },
+      {
+        "text": "namauser",
+        "meta": "@sys.any",
+        "alias": "namauser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

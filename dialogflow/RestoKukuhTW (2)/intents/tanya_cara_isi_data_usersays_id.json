@@ -1,0 +1,93 @@
+[
+  {
+    "id": "7ec65e24-eb8a-4a34-a88d-5cf720920bae",
+    "data": [
+      {
+        "text": "cara isi data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f6d2a48f-9624-4805-8760-b7b9f6b46b47",
+    "data": [
+      {
+        "text": "saya mau ngisi data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "438c5631-abaa-4e1b-80ca-63f1ce90944c",
+    "data": [
+      {
+        "text": "saya mau isi data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7b0f0d37-0f6e-4da4-8f4c-a318bc9c136c",
+    "data": [
+      {
+        "text": "bagaimana cara mengisi data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "41e1cbae-28a9-44b3-bc90-480fb6080b23",
+    "data": [
+      {
+        "text": "isi datanya bagaimana ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4565f408-05ce-43b8-a6b4-759b959bc3c9",
+    "data": [
+      {
+        "text": "bagaimana cara isi data ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "215ed71d-2436-494e-9ade-d5bf486a015b",
+    "data": [
+      {
+        "text": "cara isi data bagaimana ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

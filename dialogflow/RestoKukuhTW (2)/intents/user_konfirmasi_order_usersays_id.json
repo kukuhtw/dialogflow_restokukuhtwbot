@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d4c936c6-b291-4ea6-b083-bdaa76128b74",
+    "data": [
+      {
+        "text": "lanjut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b3b1dedc-ad7a-455a-be39-47d28c333833",
+    "data": [
+      {
+        "text": "confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fc133fa8-7b98-4111-8864-1c342bc0716a",
+    "data": [
+      {
+        "text": "checkout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "976faf1f-313b-4e76-94e7-a8d3c9379c67",
+    "data": [
+      {
+        "text": "check out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fcd48e3d-bdb6-4331-ab9b-e4f0708b82c4",
+    "data": [
+      {
+        "text": "konfirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "dc35ad7c-96bd-4b5b-9f35-c50af3077380",
+    "data": [
+      {
+        "text": "konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

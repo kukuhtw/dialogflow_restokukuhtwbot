@@ -1,0 +1,190 @@
+[
+  {
+    "id": "516e3a7c-c238-45cf-bd7a-abc246ffff64",
+    "data": [
+      {
+        "text": "bicara dengan bot apa ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "24f73ae9-7059-466b-a3c8-d7e10316fe88",
+    "data": [
+      {
+        "text": "bicara dengan bot ini apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bbc04407-21c5-4548-9639-899b3fbbaa45",
+    "data": [
+      {
+        "text": "tanyakan ke bot  apa ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9ea320b1-2975-40c2-a7af-602ada681bff",
+    "data": [
+      {
+        "text": "tanyakan ke bot  ini apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e4c8d2a3-4153-43e9-8335-4a836cc8a8c3",
+    "data": [
+      {
+        "text": "bicara apa ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4efae352-1f1f-49a1-b928-40b82de20cba",
+    "data": [
+      {
+        "text": "bicara ini apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0e7d51d8-cd3d-43df-85b0-f9c314352134",
+    "data": [
+      {
+        "text": "apa fungsi bot ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e3b0eee4-3049-4a70-993c-162793fc7df1",
+    "data": [
+      {
+        "text": "jelaskan ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9d33a03c-ea7a-4a20-bbce-d95f41305bb7",
+    "data": [
+      {
+        "text": "maksudnya apa ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7413126f-7976-490b-836f-bd0621c50087",
+    "data": [
+      {
+        "text": "apa ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "be1fcedf-681d-452a-a316-cd75f807e941",
+    "data": [
+      {
+        "text": "jelaskan ini apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1e2e45f5-ea54-4e85-980d-3a913ba64c98",
+    "data": [
+      {
+        "text": "ini apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c9e2f481-d41f-4d99-a458-b1116a4e1965",
+    "data": [
+      {
+        "text": "ini apa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0540b838-b5a6-4c24-a735-522fde739789",
+    "data": [
+      {
+        "text": "saya nggak ngerti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

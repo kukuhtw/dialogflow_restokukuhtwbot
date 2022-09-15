@@ -1,0 +1,67 @@
+[
+  {
+    "id": "3b5ce7b3-d65a-442a-8acc-ad1f94cba2b2",
+    "data": [
+      {
+        "text": "lihat data profile saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fbf140a6-738b-4424-b08f-8f3f4cc4b111",
+    "data": [
+      {
+        "text": "lihat data profile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2c76c870-f06f-4a0a-80fd-f7ef1237b03a",
+    "data": [
+      {
+        "text": "lihat data saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e9df8e17-4e35-4445-8c82-c154d5f9a0ba",
+    "data": [
+      {
+        "text": "lihat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ae393f77-3ffe-4dda-860d-a40c6534ad50",
+    "data": [
+      {
+        "text": "lhat profile saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

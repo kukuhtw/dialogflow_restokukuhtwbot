@@ -1,0 +1,38 @@
+{
+  "id": "a60257e0-a10e-4b20-962c-0d070e240319",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Saya tidak mengerti. Bisa diulangi? ketik help untuk minta bantuan",
+            "Bisa ulangi lagi?  ketik help untuk minta bantuan",
+            "Maaf, saya tidak mengerti  ketik help untuk minta bantuan.",
+            "Saya tidak mengerti. ketik help untuk minta bantuan"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

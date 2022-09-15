@@ -1,0 +1,40 @@
+[
+  {
+    "id": "d407e30f-faec-4c3e-a429-00ec94e4fcb2",
+    "data": [
+      {
+        "text": "Email ",
+        "userDefined": false
+      },
+      {
+        "text": "kukuhtw@tahoo.com",
+        "meta": "@emailuser",
+        "alias": "emailuser",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "541017bf-a1d1-4079-bb14-eb84637fe228",
+    "data": [
+      {
+        "text": "email ",
+        "userDefined": false
+      },
+      {
+        "text": "emailuser",
+        "meta": "@emailuser",
+        "alias": "emailuser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

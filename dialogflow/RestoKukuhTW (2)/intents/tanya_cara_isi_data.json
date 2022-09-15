@@ -1,0 +1,35 @@
+{
+  "id": "517cb5da-83b0-454c-ac98-44cc1276b122",
+  "name": "tanya_cara_isi_data",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "untuk mengisi data nama anda. ketik NAMA [nama anda]\n\nuntuk mengisi data email anda. ketik EMAIL [email anda]\n\nuntuk mengisi data nomor hape anda. ketik HP [nomor hape anda]\n\nuntuk mengisi data alamat anda. ketik ALAMAT [alamat anda]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

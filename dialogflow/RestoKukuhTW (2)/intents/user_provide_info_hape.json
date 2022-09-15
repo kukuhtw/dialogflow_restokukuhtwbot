@@ -1,0 +1,50 @@
+{
+  "id": "f6341023-a7ec-4325-89b5-a65e5f0d60eb",
+  "name": "user_provide_info_hape",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "user_provide_info_hape",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "966b7815-4f3f-4205-948c-2b4d3aaf444a",
+          "name": "hapeuser",
+          "required": false,
+          "dataType": "@hapeuser",
+          "value": "$hapeuser",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "gagal terkoneksi ke server"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

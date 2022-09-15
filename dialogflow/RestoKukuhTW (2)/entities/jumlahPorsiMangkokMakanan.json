@@ -1,0 +1,9 @@
+{
+  "id": "7352b81c-2119-4782-b397-dccdbf5c4da6",
+  "name": "jumlahPorsiMangkokMakanan",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "76c0d13b-bdae-4a46-86bf-ab0bf602c7a5",
+    "data": [
+      {
+        "text": "minuman ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a3357835-255c-486d-8b89-c355b4e1ad9d",
+    "data": [
+      {
+        "text": "minum ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0c36f64e-6a16-4123-b0d3-d70ab26bb22e",
+    "data": [
+      {
+        "text": "saya mau pesan minum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "80478d2f-e22c-47f9-87e2-84a2c32f268f",
+    "data": [
+      {
+        "text": "ada minuman apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2533cbbe-75e2-4dbe-aae7-495ef1f39a8a",
+    "data": [
+      {
+        "text": "pesan minum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "389a3a40-404f-4deb-887f-6f31750e0411",
+    "data": [
+      {
+        "text": "minum ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2ac3dc90-d663-4e17-9a2e-08dbcf069f1f",
+    "data": [
+      {
+        "text": "minumannya apa aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d677634b-484d-4286-9719-f694fdaf1a07",
+    "data": [
+      {
+        "text": "ada minum ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

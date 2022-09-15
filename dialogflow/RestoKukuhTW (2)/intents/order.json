@@ -1,0 +1,112 @@
+{
+  "id": "f3579c8e-0032-4eaf-96a8-4e306cbbf68b",
+  "name": "order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "orderstep1",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3910b36b-9ba4-4f60-8de1-f3aadfa5ef5b",
+          "name": "Makanan",
+          "required": false,
+          "dataType": "@Makanan",
+          "value": "$Makanan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Pesan Makannya apa ? ada bakso campur, pangsit, mie goreng, mie rebus, mie ayam yamin"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2550b8f6-8ca8-47fb-9563-78483e977cf9",
+          "name": "Minuman",
+          "required": false,
+          "dataType": "@Minuman",
+          "value": "$Minuman",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Pesan Minumnya apa ? ada es kelapa, es jeruk, air es, teh tawar"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "45e786e3-1b52-4e36-9639-af1ece6dbaec",
+          "name": "jumlahPorsiMangkokMakanan",
+          "required": false,
+          "dataType": "@jumlahPorsiMangkokMakanan",
+          "value": "$jumlahPorsiMangkokMakanan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "$Makanan ,  jumlah porsi nya berapa ? pesan 1,2,3 ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "266fbc59-02f2-45d9-9a51-4b8055c64dd7",
+          "name": "jumlahgelasminuman",
+          "required": false,
+          "dataType": "@jumlahgelasminuman",
+          "value": "$jumlahgelasminuman",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "$Minuman berapa gelas ? 1,2,3 ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "gagal terkoneksi ke server.."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

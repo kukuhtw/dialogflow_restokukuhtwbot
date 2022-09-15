@@ -1,0 +1,64 @@
+[
+  {
+    "value": "Air Es",
+    "synonyms": [
+      "Air Es",
+      "air putih",
+      "es kosong"
+    ]
+  },
+  {
+    "value": "Es Jeruk",
+    "synonyms": [
+      "Es Jeruk",
+      "air jeruk",
+      "jeruk"
+    ]
+  },
+  {
+    "value": "Es Kelapa Muda",
+    "synonyms": [
+      "Es Kelapa Muda",
+      "es kelapa",
+      "kelapa"
+    ]
+  },
+  {
+    "value": "Es Teh Manis",
+    "synonyms": [
+      "Es Teh Manis",
+      "teh",
+      "teh manis"
+    ]
+  },
+  {
+    "value": "Es Teh Tawar",
+    "synonyms": [
+      "Es Teh Tawar",
+      "tawar",
+      "teh tawar"
+    ]
+  },
+  {
+    "value": "Teh Manis Hangat",
+    "synonyms": [
+      "Teh Manis Hangat",
+      "teh manis anget",
+      "teh manis panas"
+    ]
+  },
+  {
+    "value": "Teh Tawar Hangat",
+    "synonyms": [
+      "Teh Tawar Hangat",
+      "teh tawar anget"
+    ]
+  },
+  {
+    "value": "Kopi susu ABC",
+    "synonyms": [
+      "Kopi susu ABC",
+      "kopi susu"
+    ]
+  }
+]

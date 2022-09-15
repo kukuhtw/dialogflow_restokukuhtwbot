@@ -1,0 +1,226 @@
+[
+  {
+    "id": "ce7656de-8ae3-432b-8c7c-f03c8b0d7606",
+    "data": [
+      {
+        "text": "es jeruk",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": false
+      },
+      {
+        "text": " saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1a80e4ac-c95a-49de-83cf-829c4a10373e",
+    "data": [
+      {
+        "text": "pangsit",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@jumlahPorsiMangkokMakanan",
+        "alias": "jumlahPorsiMangkokMakanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5a5e4761-6c0b-4f47-8c5c-4c21088b5c3b",
+    "data": [
+      {
+        "text": "es kelapa",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "080290c3-4db0-42fe-b943-6a799c94efa1",
+    "data": [
+      {
+        "text": "pangsit",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@jumlahPorsiMangkokMakanan",
+        "alias": "jumlahPorsiMangkokMakanan",
+        "userDefined": false
+      },
+      {
+        "text": " aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "99c22914-23ef-42d7-a509-2cad6591e381",
+    "data": [
+      {
+        "text": "ganti ",
+        "userDefined": false
+      },
+      {
+        "text": "pangsit",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " menjadi ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@jumlahPorsiMangkokMakanan",
+        "alias": "jumlahPorsiMangkokMakanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "773cf6fb-d917-4649-b9bd-4e244ade4c6d",
+    "data": [
+      {
+        "text": "ganti ",
+        "userDefined": false
+      },
+      {
+        "text": "es kelapa",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " menjadi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "58ec487f-954c-476b-8ca1-37429804d74a",
+    "data": [
+      {
+        "text": "ganti   ",
+        "userDefined": false
+      },
+      {
+        "text": "es kelapa",
+        "meta": "@Minuman",
+        "alias": "Minuman",
+        "userDefined": false
+      },
+      {
+        "text": " jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@jumlahgelasminuman",
+        "alias": "jumlahgelasminuman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c2e8b0f6-3be7-4fe0-be6b-94b34f21c614",
+    "data": [
+      {
+        "text": "ganti  ",
+        "userDefined": false
+      },
+      {
+        "text": "pangsit",
+        "meta": "@Makanan",
+        "alias": "Makanan",
+        "userDefined": false
+      },
+      {
+        "text": " jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@jumlahPorsiMangkokMakanan",
+        "alias": "jumlahPorsiMangkokMakanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

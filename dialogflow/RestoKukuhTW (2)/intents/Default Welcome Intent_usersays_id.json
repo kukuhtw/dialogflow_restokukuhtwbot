@@ -1,0 +1,233 @@
+[
+  {
+    "id": "67600fa6-cd08-4d3c-9b7d-b4b351185788",
+    "data": [
+      {
+        "text": "assalamualaikum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a09eb172-ce07-4026-bfa3-b823ec20e837",
+    "data": [
+      {
+        "text": "malam",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "96da3bd5-0c9d-4a34-a506-65f6e64ff22f",
+    "data": [
+      {
+        "text": "sore",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3c1cdb9e-196a-4c4d-808d-52c50213cc4f",
+    "data": [
+      {
+        "text": "siang",
+        "meta": "@sys.time-period",
+        "alias": "time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "048d4613-0b2b-412b-8526-a04295052edf",
+    "data": [
+      {
+        "text": "pagi",
+        "meta": "@sys.time-period",
+        "alias": "time-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ca9a8b2c-bf31-4bb2-aee1-d5fa94d215d4",
+    "data": [
+      {
+        "text": "hi",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "645938b5-ca04-4bc5-9707-d9ebf46f04a3",
+    "data": [
+      {
+        "text": "oke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "78adbc65-339c-4915-bba1-293ec0730259",
+    "data": [
+      {
+        "text": "ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f67fbdff-f92a-46ca-95d3-a1ae886ceab7",
+    "data": [
+      {
+        "text": "halo yang di sana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "304b87f2-b38f-45b4-9767-a484f9d38ede",
+    "data": [
+      {
+        "text": "halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1f19d6c7-b468-4f5a-9258-9a93fe0aee65",
+    "data": [
+      {
+        "text": "hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b6fefbe8-aa44-4ae7-b6a3-586b747301f1",
+    "data": [
+      {
+        "text": "salam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f90714c5-f6e8-4823-9119-edc64bc803e4",
+    "data": [
+      {
+        "text": "halo halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3b050790-4d6f-40bb-8507-34a7dd4a1a86",
+    "data": [
+      {
+        "text": "lama nggak ketemu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9ba250e5-213e-43ca-97bf-5eff92e1c2f6",
+    "data": [
+      {
+        "text": "hai hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ac3b61d6-7249-47d6-a7de-286be8727c1b",
+    "data": [
+      {
+        "text": "halo apa kabar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a9f72e0d-4314-49ff-829e-e1ce13c1b77d",
+    "data": [
+      {
+        "text": "hai apa kabarnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "70f17b1c-48e1-4a32-8f08-3b09b52e7af5",
+  "name": "alamatpenerima",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

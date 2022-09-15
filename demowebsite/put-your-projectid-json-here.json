@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "--------",
+  "private_key_id": "------------",
+  "private_key": "------------------PlzEFi31p/aPtYOdNY7eaXWI9rwd/ziLpe0Y0221vcGQxYjO8157p7W6xqfu7F\nOZBQ6dyaaYDCGYFKptWL6j8QVfjLvEIMFw8yQg7HKQKBgQDaF0GvLxgNPQUdG6dP\nh788Y0PGBLxpBuJp7LmaHlxJfzmIkRfSi9duZzGCHnhfPhkE8n0VAnH1keQHBOVr\n3pSV0+I0TddiEW6A1G5C0iNQVuCjG4OAgJGCINsLXMZMS+R8fS8WupYihzW8ZxzR\nS/tiPrLmQ5vrhiVGHO89xF++hwKBgQDBkAB6gpdzFHgSMw4D40ckUu1eLyh0+nGc\nX7pfd4O/1vWJ9rzGxnGUYVnZ0iFFeHbJrn1S2+Y8o0eM0xQJyI2/LuJr9Z0VrUNh\nG9QiMN+A5+BQaDHbRTrYLg11Quiuo487t3T9cU3x9GrGC7+RKnK3mNDpFo9Td9MC\nHPvUsD027QKBgGwD9sFYVtY/saewCZbHSf0TwP5zXAm8oikKWQavINA6FfnAuwbJ\nwiJpM8kZZE7vx55+p1rfgie5YTHkx+g8LmVisvdq0lE9BvkBvbaUs27YCJxgRSpB\nA1BrC3I+OeyR7hGGQutD8JYbV47/lvNGabRID30iYTgukYl/TTLPbwhDAoGAdtqn\nkJJz0LQ27mXvKy/51TIekwC+BOZrsKuPU2OdwMSLzQV28U+VGpmUhI3k5DWOK1U7\nmw9wFrfkDXLnEQLXFxgA7G3K4S6c+xoNblk4RH0dXgI86vldorTUirZlDidcojyK\nV72lMPb2QVmhbc/01Qu+7AFwTL59EQUfFYCKdhkCgYBXU4FCBO0Ic1wHEv5rNXn/\nbFnJVFJsK1GC+UUrate8CFVIMYADW9woz7zU1ZniiKZa2lbwpCAcVKP1hQaULZvw\nCAH3SHPfTSbaUVwTFkT3qiWuzJdEbM5neRU3+wOgGlawcamvxokqqoKbRZ3yWxKm\nbl5wFoWPE4nn+t3M/freFg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-slmyus@",
+  "client_id": "107247808960728488830",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-slmyus%40restokukuhtw.iam.gserviceaccount.com"
+}
