@@ -332,6 +332,10 @@ $jumlahPorsiMangkokMakanan  = (isset($update["queryResult"]["parameters"]["jumla
 $jumlahPorsiMangkokMakanan = mysqli_real_escape_string($link, $jumlahPorsiMangkokMakanan);
 
 
+$jumlahPorsiMangkokMakanan1  = (isset($update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"]) ? $update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"] : null); 
+
+$jumlahPorsiMangkokMakanan1 = mysqli_real_escape_string($link, $jumlahPorsiMangkokMakanan1);
+
 
 
 $jumlahgelasminuman  = (isset($update["queryResult"]["parameters"]["jumlahgelasminuman"]) ? $update["queryResult"]["parameters"]["jumlahgelasminuman"] : null); 
@@ -339,11 +343,15 @@ $jumlahgelasminuman  = (isset($update["queryResult"]["parameters"]["jumlahgelasm
 $jumlahgelasminuman = mysqli_real_escape_string($link, $jumlahgelasminuman);
 
 $hargamakanan =  ambil_value_product($Makanan, "produk" , "harga" , "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
+$hargamakanan1 =  ambil_value_product($Makanan1, "produk" , "harga" , "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
+
 
 
 $hargamainuman =  ambil_value_product($Minuman, "produk" ,"harga", "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 
 $qtymakanan=check_apakah_produksudahada_di_cart($sessionunique,$Makanan,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
+
+$qtymakanan1=check_apakah_produksudahada_di_cart($sessionunique,$Makanan1,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
 
 
 $qtyminuman=check_apakah_produksudahada_di_cart($sessionunique,$Minuman,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
@@ -409,6 +417,10 @@ if ($Minuman !="") {
 
 
    $jumlahPorsiMangkokMakanan1  = (isset($update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"]) ? $update["queryResult"]["parameters"]["jumlahPorsiMangkokMakanan1"] : null); 
+
+$jumlahPorsiMangkokMakanan1 = mysqli_real_escape_string($link, $jumlahPorsiMangkokMakanan1);
+
+
 
 if ($Makanan1!="") {
 	$hargamakanan1 =  ambil_value_product($Makanan1, "produk" , "harga" , "session" ,$saatini,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword);
