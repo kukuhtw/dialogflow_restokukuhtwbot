@@ -20,6 +20,23 @@ Flow Arsitektur chatbot
 
 website/Whatsapp -> Google cloud Dialogflow ->  Backend Chatbot  ->
 
+======== ENGLISH ========
+Later on, a WhatsApp bot can use the official WA API, WA API Gateway, or WA Autoresponder apps that can be downloaded from the Google Play Store.
+
+To make the demo on Dialogflow work, you need to:
+1. Open your own VPS hosting account
+2. Direct the fulfillment server to the webhook on your own VPS hosting
+3. Generate a Service Account Key in your Dialogflow project
+4. Place the JSON service account key file in your website folder
+5. Create your own database, the script is available in the databasemysql folder.
+
+To make the demo on the website work, you need to:
+1. Generate a Service Account Key in your Dialogflow project
+2. Place the JSON service account key file in your website folder
+3. Update the PHP client Google Cloud Dialogflow, download it here or use Composer to update the latest PHP client library at https://github.com/googleapis/google-cloud-php-dialogflow
+4. Make sure the database settings, database username, database password, and database name match the configuration settings on your VPS hosting.
+
+====== INDONESIA ===============
 Nantinya whatsapp bot bisa menggunakan WA API official resmi , WA API Gateway ataupun apps WA Autoresponder yang bisa didownload di google play store
 
 Agar demo pada dialogflow bisa berjalan, anda perlu
@@ -36,4 +53,9 @@ Agar demo pada website bisa berjalan, anda perlu
 3. Update php client google cloud dialogflow, download disini atau gunakan composer untuk update
 library terbaru php client https://github.com/googleapis/google-cloud-php-dialogflow
 4. pastikan setting database, username database, password database, nama database sesuai dengan setting konfigurasi di VPS hosting anda
+
+
+support me
+https://patreon.com/kukuhtw
+
 
